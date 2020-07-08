@@ -24,3 +24,12 @@ I have used Basic Authentation
 UserId:susovan
 Password:das
 
+Step To Publish in AWS:
+Step 1: Create the Publish file from Visual Studio.
+Step 2: Create IAM role for EC2 instances.
+Step 3: Create New EC2 instances for hosting publish site.
+Step 4: Create config to EC2 instances for Auto Scaling.
+Step 5: Create ELB to check the health of the EC2 and give notification to the user.
+
+
+
